@@ -3,98 +3,98 @@
     {
       "id": 1,
       "nombre": "Trae Bell-Haynes",
-      "direccion": "Base",
-      "país": "Canadá",
+      "posicion": "Base",
+      "pais": "Canadá",
       "licencia": "Otros",
-      "imagen": ""
+      "imagen": "https://i.imgur.com/3z4wprZ.png"
     },
     {
       "id": 2,
       "nombre": "Marco Spissu",
-      "direccion": "Base",
-      "país": "Italia",
+      "posicion": "Base",
+      "pais": "Italia",
       "licencia": "Otros",
-      "imagen": ""
+      "imagen": "https://i.imgur.com/vMqh8S9.png"
     },
     {
       "id": 3,
       "nombre": "Alex Moreno",
-      "direccion": "Base",
-      "país": "España",
+      "posicion": "Base",
+      "pais": "España",
       "licencia": "Nacional",
-      "imagen": ""
+      "imagen": "https://i.imgur.com/1dZQZdY.png"
     },
     {
       "id": 4,
       "nombre": "AJ Slaughter",
-      "direccion": "Escolta",
-      "país": "Estados Unidos",
+      "posicion": "Escolta",
+      "pais": "Estados Unidos",
       "licencia": "Otros",
-      "imagen": ""
+      "imagen": "https://i.imgur.com/kd9HBA8.png"
     },
     {
       "id": 5,
       "nombre": "Joaquín Rodríguez",
-      "direccion": "Escolta",
-      "país": "Uruguay",
+      "posicion": "Escolta",
+      "pais": "Uruguay",
       "licencia": "Otros",
       "imagen": "https://i.imgur.com/aqLWrR1.png"
     },
     {
       "id": 6,
       "nombre": "Santi Yusta",
-      "direccion": "Alero",
-      "país": "España",
+      "posicion": "Alero",
+      "pais": "España",
       "licencia": "Nacional",
-      "imagen": ""
+      "imagen": "https://i.imgur.com/yGGfJbm.png"
     },
     {
       "id": 7,
       "nombre": "Miguel González",
-      "direccion": "Alero",
-      "país": "España",
+      "posicion": "Alero",
+      "pais": "España",
       "licencia": "Nacional",
-      "imagen": ""
+      "imagen": "https://i.imgur.com/629eqcn.png"
     },
     {
       "id": 8,
       "nombre": "Emir Sulejmanovic",
-      "direccion": "Ala-pívot",
-      "país": "Bosnia",
+      "posicion": "Ala-pívot",
+      "pais": "Bosnia",
       "licencia": "Otros",
-      "imagen": ""
+      "imagen": "https://i.imgur.com/EMLxzOR.png"
     },
     {
       "id": 9,
       "nombre": "Yoanki Mencía",
-      "direccion": "Ala-pívot",
-      "país": "Cuba",
+      "posicion": "Ala-pívot",
+      "pais": "Cuba",
       "licencia": "Extracomunitario",
-      "imagen": ""
+      "imagen": "https://i.imgur.com/EFSPWtr.png"
     },
     {
       "id": 10,
       "nombre": "Bojan Dubljevic",
-      "direccion": "Pívot",
-      "país": "Montenegro",
+      "posicion": "Pívot",
+      "pais": "Montenegro",
       "licencia": "Otros",
-      "imagen": ""
+      "imagen": "https://i.imgur.com/aLyah6M.png"
     },
     {
       "id": 11,
       "nombre": "Jilson Bango",
-      "direccion": "Pívot",
-      "país": "Angola",
+      "posicion": "Pívot",
+      "pais": "Angola",
       "licencia": "Otros",
-      "imagen": ""
+      "imagen": "https://i.imgur.com/6sGFUj8.png"
     },
     {
       "id": 12,
       "nombre": "Jaime Fernández",
-      "direccion": "Pívot",
-      "país": "España",
+      "posicion": "Pívot",
+      "pais": "España",
       "licencia": "Nacional",
-      "imagen": ""
+      "imagen": "https://i.imgur.com/cit0u3m.png"
     }
   ]
 }
