@@ -1,0 +1,100 @@
+{
+  "jugadores": [
+    {
+      "id": 1,
+      "nombre": "Trae Bell-Haynes",
+      "direccion": "Base",
+      "país": "Canadá",
+      "licencia": "Otros",
+      "imagen": ""
+    },
+    {
+      "id": 2,
+      "nombre": "Marco Spissu",
+      "direccion": "Base",
+      "país": "Italia",
+      "licencia": "Otros",
+      "imagen": ""
+    },
+    {
+      "id": 3,
+      "nombre": "Alex Moreno",
+      "direccion": "Base",
+      "país": "España",
+      "licencia": "Nacional",
+      "imagen": ""
+    },
+    {
+      "id": 4,
+      "nombre": "AJ Slaughter",
+      "direccion": "Escolta",
+      "país": "Estados Unidos",
+      "licencia": "Otros",
+      "imagen": ""
+    },
+    {
+      "id": 5,
+      "nombre": "Joaquín Rodríguez",
+      "direccion": "Escolta",
+      "país": "Uruguay",
+      "licencia": "Otros",
+      "imagen": "https://i.imgur.com/aqLWrR1.png"
+    },
+    {
+      "id": 6,
+      "nombre": "Santi Yusta",
+      "direccion": "Alero",
+      "país": "España",
+      "licencia": "Nacional",
+      "imagen": ""
+    },
+    {
+      "id": 7,
+      "nombre": "Miguel González",
+      "direccion": "Alero",
+      "país": "España",
+      "licencia": "Nacional",
+      "imagen": ""
+    },
+    {
+      "id": 8,
+      "nombre": "Emir Sulejmanovic",
+      "direccion": "Ala-pívot",
+      "país": "Bosnia",
+      "licencia": "Otros",
+      "imagen": ""
+    },
+    {
+      "id": 9,
+      "nombre": "Yoanki Mencía",
+      "direccion": "Ala-pívot",
+      "país": "Cuba",
+      "licencia": "Extracomunitario",
+      "imagen": ""
+    },
+    {
+      "id": 10,
+      "nombre": "Bojan Dubljevic",
+      "direccion": "Pívot",
+      "país": "Montenegro",
+      "licencia": "Otros",
+      "imagen": ""
+    },
+    {
+      "id": 11,
+      "nombre": "Jilson Bango",
+      "direccion": "Pívot",
+      "país": "Angola",
+      "licencia": "Otros",
+      "imagen": ""
+    },
+    {
+      "id": 12,
+      "nombre": "Jaime Fernández",
+      "direccion": "Pívot",
+      "país": "España",
+      "licencia": "Nacional",
+      "imagen": ""
+    }
+  ]
+}
