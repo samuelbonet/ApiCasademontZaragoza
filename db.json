@@ -6,7 +6,8 @@
       "posicion": "Base",
       "pais": "Canadá",
       "licencia": "Otros",
-      "imagen": "https://i.imgur.com/3z4wprZ.png"
+      "imagen": "https://i.imgur.com/3z4wprZ.png",
+      "tipo":"Jugador"
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "posicion": "Base",
       "pais": "Italia",
       "licencia": "Otros",
-      "imagen": "https://i.imgur.com/vMqh8S9.png"
+      "imagen": "https://i.imgur.com/vMqh8S9.png",
+      "tipo":"Jugador"
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "posicion": "Base",
       "pais": "España",
       "licencia": "Nacional",
-      "imagen": "https://i.imgur.com/1dZQZdY.png"
+      "imagen": "https://i.imgur.com/1dZQZdY.png",
+      "tipo":"Jugador"
     },
     {
       "id": 4,
@@ -30,7 +33,8 @@
       "posicion": "Escolta",
       "pais": "Estados Unidos",
       "licencia": "Otros",
-      "imagen": "https://i.imgur.com/kd9HBA8.png"
+      "imagen": "https://i.imgur.com/kd9HBA8.png",
+      "tipo":"Jugador"
     },
     {
       "id": 5,
@@ -38,7 +42,8 @@
       "posicion": "Escolta",
       "pais": "Uruguay",
       "licencia": "Otros",
-      "imagen": "https://i.imgur.com/aqLWrR1.png"
+      "imagen": "https://i.imgur.com/aqLWrR1.png",
+      "tipo":"Jugador"
     },
     {
       "id": 6,
@@ -46,7 +51,8 @@
       "posicion": "Alero",
       "pais": "España",
       "licencia": "Nacional",
-      "imagen": "https://i.imgur.com/yGGfJbm.png"
+      "imagen": "https://i.imgur.com/yGGfJbm.png",
+      "tipo":"Jugador"
     },
     {
       "id": 7,
@@ -54,7 +60,8 @@
       "posicion": "Alero",
       "pais": "España",
       "licencia": "Nacional",
-      "imagen": "https://i.imgur.com/629eqcn.png"
+      "imagen": "https://i.imgur.com/629eqcn.png",
+      "tipo":"Jugador"
     },
     {
       "id": 8,
@@ -62,7 +69,8 @@
       "posicion": "Ala-pívot",
       "pais": "Bosnia",
       "licencia": "Otros",
-      "imagen": "https://i.imgur.com/EMLxzOR.png"
+      "imagen": "https://i.imgur.com/EMLxzOR.png",
+      "tipo":"Jugador"
     },
     {
       "id": 9,
@@ -70,7 +78,8 @@
       "posicion": "Ala-pívot",
       "pais": "Cuba",
       "licencia": "Extracomunitario",
-      "imagen": "https://i.imgur.com/EFSPWtr.png"
+      "imagen": "https://i.imgur.com/EFSPWtr.png",
+      "tipo":"Jugador"
     },
     {
       "id": 10,
@@ -78,7 +87,8 @@
       "posicion": "Pívot",
       "pais": "Montenegro",
       "licencia": "Otros",
-      "imagen": "https://i.imgur.com/aLyah6M.png"
+      "imagen": "https://i.imgur.com/aLyah6M.png",
+      "tipo":"Jugador"
     },
     {
       "id": 11,
@@ -86,7 +96,8 @@
       "posicion": "Pívot",
       "pais": "Angola",
       "licencia": "Otros",
-      "imagen": "https://i.imgur.com/6sGFUj8.png"
+      "imagen": "https://i.imgur.com/6sGFUj8.png",
+      "tipo":"Jugador"
     },
     {
       "id": 12,
@@ -94,7 +105,8 @@
       "posicion": "Pívot",
       "pais": "España",
       "licencia": "Nacional",
-      "imagen": "https://i.imgur.com/cit0u3m.png"
+      "imagen": "https://i.imgur.com/cit0u3m.png",
+      "tipo":"Jugador"
     }
   ]
 }
