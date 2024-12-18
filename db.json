@@ -7,7 +7,8 @@
       "pais": "Canadá",
       "licencia": "Otros",
       "imagen": "https://i.imgur.com/3z4wprZ.png",
-      "tipo":"Jugador"
+      "tipo":"Jugador",
+      "dorsal":2
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "pais": "Italia",
       "licencia": "Otros",
       "imagen": "https://i.imgur.com/vMqh8S9.png",
-      "tipo":"Jugador"
+      "tipo":"Jugador",
+      "dorsal":0
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "pais": "España",
       "licencia": "Nacional",
       "imagen": "https://i.imgur.com/1dZQZdY.png",
-      "tipo":"Jugador"
+      "tipo":"Jugador",
+      "dorsal":28
     },
     {
       "id": 4,
@@ -34,7 +37,8 @@
       "pais": "Estados Unidos",
       "licencia": "Otros",
       "imagen": "https://i.imgur.com/kd9HBA8.png",
-      "tipo":"Jugador"
+      "tipo":"Jugador",
+      "dorsal":3
     },
     {
       "id": 5,
@@ -43,7 +47,8 @@
       "pais": "Uruguay",
       "licencia": "Otros",
       "imagen": "https://i.imgur.com/aqLWrR1.png",
-      "tipo":"Jugador"
+      "tipo":"Jugador",
+      "dorsal":15
     },
     {
       "id": 6,
@@ -52,7 +57,8 @@
       "pais": "España",
       "licencia": "Nacional",
       "imagen": "https://i.imgur.com/yGGfJbm.png",
-      "tipo":"Jugador"
+      "tipo":"Jugador",
+      "dorsal":4
     },
     {
       "id": 7,
@@ -61,7 +67,8 @@
       "pais": "España",
       "licencia": "Nacional",
       "imagen": "https://i.imgur.com/629eqcn.png",
-      "tipo":"Jugador"
+      "tipo":"Jugador",
+      "dorsal":7
     },
     {
       "id": 8,
@@ -70,7 +77,8 @@
       "pais": "Bosnia",
       "licencia": "Otros",
       "imagen": "https://i.imgur.com/EMLxzOR.png",
-      "tipo":"Jugador"
+      "tipo":"Jugador",
+      "dorsal":19
     },
     {
       "id": 9,
@@ -79,7 +87,8 @@
       "pais": "Cuba",
       "licencia": "Extracomunitario",
       "imagen": "https://i.imgur.com/EFSPWtr.png",
-      "tipo":"Jugador"
+      "tipo":"Jugador",
+      "dorsal":8
     },
     {
       "id": 10,
@@ -88,7 +97,8 @@
       "pais": "Montenegro",
       "licencia": "Otros",
       "imagen": "https://i.imgur.com/aLyah6M.png",
-      "tipo":"Jugador"
+      "tipo":"Jugador",
+      "dorsal":14
     },
     {
       "id": 11,
@@ -97,7 +107,8 @@
       "pais": "Angola",
       "licencia": "Otros",
       "imagen": "https://i.imgur.com/6sGFUj8.png",
-      "tipo":"Jugador"
+      "tipo":"Jugador",
+      "dorsal":44
     },
     {
       "id": 12,
@@ -106,7 +117,8 @@
       "pais": "España",
       "licencia": "Nacional",
       "imagen": "https://i.imgur.com/cit0u3m.png",
-      "tipo":"Jugador"
+      "tipo":"Jugador",
+      "dorsal":10
     }
   ]
 }
