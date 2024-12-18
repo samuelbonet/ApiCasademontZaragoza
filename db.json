@@ -124,7 +124,8 @@
       "id": 13,
       "nombre": "Porfirio Fisac",
       "tipo":"Entrenador",
-       "imagen": ""
+      "imagen": "https://i.imgur.com/9KdCSVC.png",
+      "dorsal":"ENT"
     }
   ]
 }
