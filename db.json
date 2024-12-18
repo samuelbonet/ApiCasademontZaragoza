@@ -125,24 +125,6 @@
       "nombre": "Porfirio Fisac",
       "tipo":"Entrenador",
        "imagen": ""
-    },
-    {
-      "id": 14,
-      "nombre": "Iñaki Martín",
-      "tipo":"Entrenador",
-      "imagen": "https://i.imgur.com/cit0u3m.png"
-    },
-    {
-      "id": 15,
-      "nombre": "Jack Burguess",
-      "tipo":"Entrenador",
-      "imagen": "https://i.imgur.com/cit0u3m.png"
-    },
-    {
-      "id": 16,
-      "nombre": "Rodigo San Miguel",
-      "tipo":"Entrenador",
-      "imagen": "https://i.imgur.com/cit0u3m.png"
     }
   ]
 }
